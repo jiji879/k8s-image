@@ -1,0 +1,9 @@
+bin
+eggs
+develop-eggs
+versions.cfg
+*.egg-info/
+__pycache__
+.DS_Store
+.installed.cfg
+.idea
